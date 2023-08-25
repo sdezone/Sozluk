@@ -25,4 +25,7 @@
   <ItemGroup>
     <Folder Include="Context\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Sozluk.Api.Domain\Sozluk.Api.Domain.csproj" />
+  </ItemGroup>
 </Project>

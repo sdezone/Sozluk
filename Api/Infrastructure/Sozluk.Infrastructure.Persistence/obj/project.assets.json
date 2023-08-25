@@ -563,6 +563,29 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
+      },
+      "Sozluk.Api.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Sozluk.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sozluk.Api.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sozluk.Api.Domain.dll": {}
+        }
+      },
+      "Sozluk.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Sozluk.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sozluk.Common.dll": {}
+        }
       }
     }
   },
@@ -1293,6 +1316,16 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Sozluk.Api.Domain/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Sozluk.Api.Domain/Sozluk.Api.Domain.csproj",
+      "msbuildProject": "../../Core/Sozluk.Api.Domain/Sozluk.Api.Domain.csproj"
+    },
+    "Sozluk.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/Sozluk.Common/Sozluk.Common.csproj",
+      "msbuildProject": "../../../Common/Sozluk.Common/Sozluk.Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1301,7 +1334,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Relational >= 7.0.10",
       "Microsoft.EntityFrameworkCore.Sqlite >= 7.0.10",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.10"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.10",
+      "Sozluk.Api.Domain >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1328,7 +1362,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Domain/Sozluk.Api.Domain.csproj": {
+              "projectPath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Domain/Sozluk.Api.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
