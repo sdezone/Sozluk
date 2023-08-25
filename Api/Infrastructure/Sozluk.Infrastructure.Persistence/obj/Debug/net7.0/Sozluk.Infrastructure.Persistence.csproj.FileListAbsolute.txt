@@ -1,0 +1,14 @@
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Infrastructure.Persistence.deps.json
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Infrastructure.Persistence.runtimeconfig.json
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Infrastructure.Persistence.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Infrastructure.Persistence.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.csproj.AssemblyReference.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.AssemblyInfoInputs.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.AssemblyInfo.cs
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/refint/Sozluk.Infrastructure.Persistence.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.genruntimeconfig.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/ref/Sozluk.Infrastructure.Persistence.dll
