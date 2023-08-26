@@ -21,9 +21,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Remove="Context\" />
+    <None Remove="EntityConfigurations\" />
+    <None Remove="EntityConfigurations\Entity\" />
+    <None Remove="EntityConfigurations\EntryComment\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Context\" />
+    <Folder Include="EntityConfigurations\" />
+    <Folder Include="EntityConfigurations\Entity\" />
+    <Folder Include="EntityConfigurations\EntryComment\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Sozluk.Api.Domain\Sozluk.Api.Domain.csproj" />

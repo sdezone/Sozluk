@@ -7,6 +7,7 @@ namespace Sozluk.Infrastructure.Persistence.Context
 {
     public class SozlukContext : DbContext
     {
+        public const string DEFAULT_SCHEMA = "dbo";
         public SozlukContext(DbContextOptions options) : base(options)
         {
         }
