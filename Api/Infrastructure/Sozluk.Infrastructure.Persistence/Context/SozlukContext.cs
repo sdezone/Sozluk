@@ -17,14 +17,14 @@ namespace Sozluk.Infrastructure.Persistence.Context
         {
         }
 
-        DbSet<User> Users { get; set; }
-        DbSet<Entry> Entries { get; set; }
-        DbSet<EntryVote> EntryVotes { get; set; }
-        DbSet<EntryFavorite> EntryFavorites { get; set; }
-        DbSet<EntryComment> EntryComments { get; set; }
-        DbSet<EntryCommentVote> EntryCommentVotes { get; set; }
-        DbSet<EntryCommentFavorite> EntryCommentFavorites { get; set; }
-        DbSet<EmailConfirmation> EmailConfirmations { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<Entry> Entries { get; set; }
+        public DbSet<EntryVote> EntryVotes { get; set; }
+        public DbSet<EntryFavorite> EntryFavorites { get; set; }
+        public DbSet<EntryComment> EntryComments { get; set; }
+        public DbSet<EntryCommentVote> EntryCommentVotes { get; set; }
+        public DbSet<EntryCommentFavorite> EntryCommentFavorites { get; set; }
+        public DbSet<EmailConfirmation> EmailConfirmations { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

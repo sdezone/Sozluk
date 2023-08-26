@@ -8,8 +8,10 @@
 
   <ItemGroup>
     <None Remove="ViewModels\" />
+    <None Remove="Infrastructure\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="ViewModels\" />
+    <Folder Include="Infrastructure\" />
   </ItemGroup>
 </Project>

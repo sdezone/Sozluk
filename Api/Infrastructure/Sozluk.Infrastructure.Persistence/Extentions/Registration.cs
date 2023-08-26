@@ -15,6 +15,9 @@ namespace Sozluk.Infrastructure.Persistence.Extentions
 				conf.UseSqlite(configuration.GetConnectionString("SozlukSqllite"));
 			});
 
+			var seedData = new SeedData();
+			seedData.SeedAsync(configuration).GetAwaiter().GetResult();
+
             return services;
 		}
 	}

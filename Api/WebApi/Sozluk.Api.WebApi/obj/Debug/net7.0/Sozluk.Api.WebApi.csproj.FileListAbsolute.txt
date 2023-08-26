@@ -69,3 +69,8 @@
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/obj/Debug/net7.0/Sozluk.Api.WebApi.pdb
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/obj/Debug/net7.0/Sozluk.Api.WebApi.genruntimeconfig.cache
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/obj/Debug/net7.0/ref/Sozluk.Api.WebApi.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Bogus.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Humanizer.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/System.CodeDom.dll
