@@ -12,3 +12,8 @@
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.pdb
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.genruntimeconfig.cache
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/ref/Sozluk.Infrastructure.Persistence.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Api.Domain.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Common.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Api.Domain.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Common.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.csproj.CopyComplete

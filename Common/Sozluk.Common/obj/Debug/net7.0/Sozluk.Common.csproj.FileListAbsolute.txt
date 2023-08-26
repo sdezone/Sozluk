@@ -1,0 +1,12 @@
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/bin/Debug/net7.0/Sozluk.Common.deps.json
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/bin/Debug/net7.0/Sozluk.Common.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/bin/Debug/net7.0/Sozluk.Common.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/Sozluk.Common.csproj.AssemblyReference.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/Sozluk.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/Sozluk.Common.AssemblyInfoInputs.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/Sozluk.Common.AssemblyInfo.cs
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/Sozluk.Common.csproj.CoreCompileInputs.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/Sozluk.Common.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/refint/Sozluk.Common.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/Sozluk.Common.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Common/Sozluk.Common/obj/Debug/net7.0/ref/Sozluk.Common.dll

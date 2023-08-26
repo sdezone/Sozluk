@@ -1,0 +1,12 @@
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/bin/Debug/net7.0/Sozluk.Api.Application.deps.json
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/bin/Debug/net7.0/Sozluk.Api.Application.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/bin/Debug/net7.0/Sozluk.Api.Application.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.csproj.AssemblyReference.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.AssemblyInfoInputs.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.AssemblyInfo.cs
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.csproj.CoreCompileInputs.cache
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/refint/Sozluk.Api.Application.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/ref/Sozluk.Api.Application.dll

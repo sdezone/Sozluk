@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/obj/Debug/net7.0/build-gz/hP4ql4o+.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/obj/Debug/net7.0/scopedcss/bundle/Sozluk.WebApp.styles.css",
+      "PackagePath": "staticwebassets/Sozluk.WebApp.styles.css"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Clients/BlazorWeb/Sozluk.WebApp/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.Sozluk.WebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.Sozluk.WebApp.props",
+      "PackagePath": "build\\Sozluk.WebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Sozluk.WebApp.props",
+      "PackagePath": "buildMultiTargeting\\Sozluk.WebApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Sozluk.WebApp.props",
+      "PackagePath": "buildTransitive\\Sozluk.WebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
