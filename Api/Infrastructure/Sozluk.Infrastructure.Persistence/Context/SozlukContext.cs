@@ -8,6 +8,11 @@ namespace Sozluk.Infrastructure.Persistence.Context
     public class SozlukContext : DbContext
     {
         public const string DEFAULT_SCHEMA = "dbo";
+
+        public SozlukContext()
+        {
+
+        }
         public SozlukContext(DbContextOptions options) : base(options)
         {
         }
@@ -21,6 +26,14 @@ namespace Sozluk.Infrastructure.Persistence.Context
         DbSet<EntryCommentFavorite> EntryCommentFavorites { get; set; }
         DbSet<EmailConfirmation> EmailConfirmations { get; set; }
 
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlite("Data Source=SozlukDB.db");
+            }
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
