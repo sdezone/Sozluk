@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J0SNnflm+eTuhtRVOHEyY5aYBgVCr/XFF6HU3vF634eXJcqFMKIemp9DDVPXZO9171qUNFI1LNJjTxCTL9kNPg==",
+  "dgSpecHash": "E1LUioayXVDB/6SBr9YmNzG/adnXxqhqRTJSSQCrpX65qVzHtYaQijnXkRN5CbOE4qRthSEfX+1nAkUrMrTOCA==",
   "success": true,
   "projectFilePath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/Sozluk.Api.WebApi.csproj",
   "expectedPackageFiles": [
+    "/Users/nusretkaya/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.aspnetcore.openapi/7.0.7/microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.data.sqlite.core/7.0.10/microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

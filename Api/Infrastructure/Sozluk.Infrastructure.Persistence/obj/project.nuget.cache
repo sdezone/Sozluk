@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M66CiLCNLhlnybONDkYYQC0zU4XdNwmdqkkWmCUqi793ZO6cIow1oQKIcReDJ6WIlkmJQZ/3O0WDU/fL3LVpKw==",
+  "dgSpecHash": "rT+S+sQOUuo8TsYOVNAxeXUAOXbuTnekaTBgEl0PnWGyqEfgC/N24Zd/arNAxvPcLJ4gn6sgCYHLBHTlw2Av8w==",
   "success": true,
   "projectFilePath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/Sozluk.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
+    "/Users/nusretkaya/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.data.sqlite.core/7.0.10/microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
