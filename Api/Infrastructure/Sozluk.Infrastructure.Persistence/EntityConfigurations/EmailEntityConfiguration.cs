@@ -11,7 +11,7 @@ namespace Sozluk.Infrastructure.Persistence.EntityConfigurations
         public override void Configure(EntityTypeBuilder<EmailConfirmation> builder)
         {
             base.Configure(builder);
-            builder.ToTable("emailconfirmation", SozlukContext.DEFAULT_SCHEMA);
+            builder.ToTable("email_confirmation", SozlukContext.DEFAULT_SCHEMA);
         }
 
     }
