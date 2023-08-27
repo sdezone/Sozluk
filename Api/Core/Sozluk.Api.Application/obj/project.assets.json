@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Sozluk.Api.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Sozluk.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sozluk.Api.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sozluk.Api.Domain.dll": {}
+        }
+      },
+      "Sozluk.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Sozluk.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sozluk.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Sozluk.Api.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Sozluk.Api.Domain/Sozluk.Api.Domain.csproj",
+      "msbuildProject": "../Sozluk.Api.Domain/Sozluk.Api.Domain.csproj"
+    },
+    "Sozluk.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/Sozluk.Common/Sozluk.Common.csproj",
+      "msbuildProject": "../../../Common/Sozluk.Common/Sozluk.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Sozluk.Api.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/nusretkaya/.nuget/packages/": {}
@@ -31,7 +68,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Domain/Sozluk.Api.Domain.csproj": {
+              "projectPath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Domain/Sozluk.Api.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
