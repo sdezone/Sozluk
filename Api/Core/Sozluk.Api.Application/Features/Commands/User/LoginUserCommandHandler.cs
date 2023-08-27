@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Claims;
 using AutoMapper;
 using MediatR;
 using Microsoft.Extensions.Configuration;
@@ -38,6 +39,17 @@ namespace Sozluk.Api.Application.Features.Commands.User
 
             var result = mapper.Map<LoginUserViewModel>(dbUser);
 
+            var claims = new Claim[]
+            {
+                new Claim(ClaimTypes.NameIdentifier,dbUser.Id.ToString()),
+                new Claim(ClaimTypes.Email,dbUser.EmailAddress),
+                new Claim(ClaimTypes.Name,dbUser.UserName),
+                new Claim(ClaimTypes.GivenName,dbUser.FirsName),
+                new Claim(ClaimTypes.Surname,dbUser.LastName)
+
+            };
+
+            result.Token = JwtToken.GenerateToken(claims);
             return result;
         }
     }
