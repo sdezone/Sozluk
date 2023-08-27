@@ -88,3 +88,4 @@
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Sozluk.Api.Application.dll
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Sozluk.Api.Application.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/FluentValidation.AspNetCore.dll

@@ -34,7 +34,7 @@ namespace Sozluk.Api.Application.Features.Commands.User
             if (dbUser.Password != pass)
                 throw new DatabaseValidationEception("Password is wrong.");
 
-            if (dbUser.EmailConfirmed)
+            if (!dbUser.EmailConfirmed)
                 throw new DatabaseValidationEception("Emai not confirmed");
 
             var result = mapper.Map<LoginUserViewModel>(dbUser);
@@ -48,8 +48,8 @@ namespace Sozluk.Api.Application.Features.Commands.User
                 new Claim(ClaimTypes.Surname,dbUser.LastName)
 
             };
-
-            result.Token = JwtToken.GenerateToken(claims);
+            var JwtToken = new JwtToken(configuration);
+            result.Token = JwtToken.GenerateToken(claims,configuration);
             return result;
         }
     }

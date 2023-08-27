@@ -8,9 +8,14 @@ namespace Sozluk.Common.Infrastructure
 {
 	public  class JwtToken
 	{
-        private static readonly IConfiguration configuration;
+         IConfiguration configuration;
 
-        public static string GenerateToken(Claim[] claims)
+        public JwtToken(IConfiguration configuration)
+        {
+            this.configuration = configuration;
+        }
+
+        public string GenerateToken(Claim[] claims, IConfiguration configuration)
         {
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(configuration["AuthConfig:Secret"]));
             var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
