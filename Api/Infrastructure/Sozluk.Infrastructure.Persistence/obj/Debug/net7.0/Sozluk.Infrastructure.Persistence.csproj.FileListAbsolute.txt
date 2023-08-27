@@ -17,3 +17,5 @@
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Api.Domain.pdb
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Common.pdb
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/obj/Debug/net7.0/Sozluk.Infrastructure.Persistence.csproj.CopyComplete
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Api.Application.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/bin/Debug/net7.0/Sozluk.Api.Application.pdb

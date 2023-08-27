@@ -74,3 +74,17 @@
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/System.CodeDom.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/AutoMapper.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/FluentValidation.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/MediatR.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/MediatR.Contracts.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/MediatR.Extensions.Microsoft.DependencyInjection.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Sozluk.Api.Application.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/WebApi/Sozluk.Api.WebApi/bin/Debug/net7.0/Sozluk.Api.Application.pdb

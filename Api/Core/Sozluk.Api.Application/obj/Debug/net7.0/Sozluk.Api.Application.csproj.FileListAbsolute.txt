@@ -10,3 +10,8 @@
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/refint/Sozluk.Api.Application.dll
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.pdb
 /Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/ref/Sozluk.Api.Application.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/bin/Debug/net7.0/Sozluk.Api.Domain.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/bin/Debug/net7.0/Sozluk.Common.dll
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/bin/Debug/net7.0/Sozluk.Api.Domain.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/bin/Debug/net7.0/Sozluk.Common.pdb
+/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/obj/Debug/net7.0/Sozluk.Api.Application.csproj.CopyComplete
