@@ -9,10 +9,12 @@
   <ItemGroup>
     <None Remove="Interfaces\" />
     <None Remove="Interfaces\Repositories\" />
+    <None Remove="Extentions\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
     <Folder Include="Interfaces\Repositories\" />
+    <Folder Include="Extentions\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sozluk.Api.Domain\Sozluk.Api.Domain.csproj" />

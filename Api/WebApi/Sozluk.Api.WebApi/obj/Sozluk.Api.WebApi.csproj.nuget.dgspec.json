@@ -257,6 +257,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/Sozluk.Api.Application.csproj": {
+                "projectPath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Application/Sozluk.Api.Application.csproj"
+              },
               "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/Sozluk.Infrastructure.Persistence.csproj": {
                 "projectPath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/Sozluk.Infrastructure.Persistence.csproj"
               }

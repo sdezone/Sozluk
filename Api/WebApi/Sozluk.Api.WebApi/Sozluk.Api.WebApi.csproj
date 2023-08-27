@@ -21,5 +21,8 @@
     <ProjectReference Include="..\..\Infrastructure\Sozluk.Infrastructure.Persistence\Sozluk.Infrastructure.Persistence.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
+    <ProjectReference Include="..\..\Core\Sozluk.Api.Application\Sozluk.Api.Application.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>
