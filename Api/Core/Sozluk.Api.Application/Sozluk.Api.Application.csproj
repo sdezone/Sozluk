@@ -15,6 +15,7 @@
     <None Remove="Features\Queries\" />
     <None Remove="Features\Commands\User\" />
     <None Remove="Mapping\" />
+    <None Remove="Features\Commands\User\Login\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
@@ -25,6 +26,7 @@
     <Folder Include="Features\Queries\" />
     <Folder Include="Features\Commands\User\" />
     <Folder Include="Mapping\" />
+    <Folder Include="Features\Commands\User\Login\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sozluk.Api.Domain\Sozluk.Api.Domain.csproj" />
