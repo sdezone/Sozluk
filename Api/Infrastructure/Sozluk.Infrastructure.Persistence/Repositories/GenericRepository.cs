@@ -12,9 +12,9 @@ namespace Sozluk.Api.Infrastructure.Repositories
 {
     public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEntity : BaseEntity
     {
-        private readonly SozlukContext _context;
+        private readonly DbContext _context;
 
-        public GenericRepository(SozlukContext context)
+        public GenericRepository(DbContext context)
         {
             _context = context;
         }
