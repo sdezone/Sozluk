@@ -26,6 +26,7 @@
     <None Remove="EntityConfigurations\Entity\" />
     <None Remove="EntityConfigurations\EntryComment\" />
     <None Remove="Extentions\" />
+    <None Remove="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Context\" />
@@ -33,8 +34,10 @@
     <Folder Include="EntityConfigurations\Entity\" />
     <Folder Include="EntityConfigurations\EntryComment\" />
     <Folder Include="Extentions\" />
+    <Folder Include="Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Core\Sozluk.Api.Domain\Sozluk.Api.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\Sozluk.Api.Application\Sozluk.Api.Application.csproj" />
   </ItemGroup>
 </Project>

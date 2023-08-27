@@ -671,6 +671,19 @@
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
       },
+      "Sozluk.Api.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Sozluk.Api.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Sozluk.Api.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Sozluk.Api.Application.dll": {}
+        }
+      },
       "Sozluk.Api.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -702,6 +715,7 @@
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.Relational": "7.0.10",
           "Microsoft.EntityFrameworkCore.Sqlite": "7.0.10",
+          "Sozluk.Api.Application": "1.0.0",
           "Sozluk.Api.Domain": "1.0.0"
         },
         "compile": {
@@ -1784,6 +1798,11 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Sozluk.Api.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/Sozluk.Api.Application/Sozluk.Api.Application.csproj",
+      "msbuildProject": "../../Core/Sozluk.Api.Application/Sozluk.Api.Application.csproj"
     },
     "Sozluk.Api.Domain/1.0.0": {
       "type": "project",
