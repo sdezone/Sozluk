@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Sozluk.Common.ViewModels
+namespace Sozluk.Common.Models
 {
 	public class Enums
 	{

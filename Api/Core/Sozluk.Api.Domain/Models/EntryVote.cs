@@ -1,4 +1,4 @@
-﻿using static Sozluk.Common.ViewModels.Enums;
+﻿using static Sozluk.Common.Models.Enums;
 
 namespace Sozluk.Api.Domain.Models
 {
