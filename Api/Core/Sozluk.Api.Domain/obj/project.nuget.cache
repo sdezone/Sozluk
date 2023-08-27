@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "vIYaAZbktjIGg1qc6R/nPEr9GwDItKhZqbtsQtUNQ3qxqHMPNibnwHVjek4GsFg2AXCKRTnHrElEyCoHoVTsuQ==",
+  "dgSpecHash": "c/IZsRXVLDSUOxr7JQ6lqIcNB0M0wYJMqdW8X7MITIAcKC6AUQr18T1K5qdUZQF01Fh7TzlddIzn1v81podQqA==",
   "success": true,
   "projectFilePath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Core/Sozluk.Api.Domain/Sozluk.Api.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/nusretkaya/.nuget/packages/mediatr/11.0.0/mediatr.11.0.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.identitymodel.abstractions/6.32.2/microsoft.identitymodel.abstractions.6.32.2.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.32.2/microsoft.identitymodel.jsonwebtokens.6.32.2.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.identitymodel.logging/6.32.2/microsoft.identitymodel.logging.6.32.2.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.identitymodel.tokens/6.32.2/microsoft.identitymodel.tokens.6.32.2.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/system.identitymodel.tokens.jwt/6.32.2/system.identitymodel.tokens.jwt.6.32.2.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
   "logs": []
 }
