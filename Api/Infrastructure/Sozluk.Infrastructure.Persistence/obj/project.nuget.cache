@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "fql/zbu6I7nHlWugZzdt4w0oxbnACekCvTS2oHFdDMT/qc6pmNMHcI8LNhndOAMULWHNsqLIk05i37Fd24e3mA==",
+  "dgSpecHash": "fnrqlcFuZRHMyg5EzM51yi12eZfVmUoYGa5bI51aYfEj1pu0PXZb0HbXa0myF/mOdMhs3zjRZ87G27fTD7hJ+A==",
   "success": true,
   "projectFilePath": "/Users/nusretkaya/Desktop/projects/csharp/sozluk/Sozluk/Api/Infrastructure/Sozluk.Infrastructure.Persistence/Sozluk.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
+    "/Users/nusretkaya/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/bogus/34.0.2/bogus.34.0.2.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/11.1.0/mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "/Users/nusretkaya/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.data.sqlite.core/7.0.10/microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.10/microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",
@@ -35,5 +43,16 @@
     "/Users/nusretkaya/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/nusretkaya/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.1.1 was resolved.",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
 }
