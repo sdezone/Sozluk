@@ -16,6 +16,8 @@
     <None Remove="Features\Commands\User\" />
     <None Remove="Mapping\" />
     <None Remove="Features\Commands\User\Login\" />
+    <None Remove="Features\Commands\User\Create\" />
+    <None Remove="Features\Commands\User\Update\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Interfaces\" />
@@ -27,6 +29,8 @@
     <Folder Include="Features\Commands\User\" />
     <Folder Include="Mapping\" />
     <Folder Include="Features\Commands\User\Login\" />
+    <Folder Include="Features\Commands\User\Create\" />
+    <Folder Include="Features\Commands\User\Update\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sozluk.Api.Domain\Sozluk.Api.Domain.csproj" />
